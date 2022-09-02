@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebeca Projeto", "Rebeca Projeto\Rebeca Projeto.csproj", "{B6F87359-BAEF-4636-B50C-5869AE19B070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6F87359-BAEF-4636-B50C-5869AE19B070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F87359-BAEF-4636-B50C-5869AE19B070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F87359-BAEF-4636-B50C-5869AE19B070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F87359-BAEF-4636-B50C-5869AE19B070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0421DC5E-7BFB-4C1A-A2BA-2BC9209096D3}
+	EndGlobalSection
+EndGlobal
